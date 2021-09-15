@@ -1,4 +1,5 @@
 # Importamos la paquteria necesaria
+#ESTO ES UNA PRUEBA DE GIT
 import RPi.GPIO as GPIO
 import time
 
